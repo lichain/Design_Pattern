@@ -1,4 +1,4 @@
-# Design_Patte
+# Design Pattern
 
 * SimpleFactory 簡單工廠模式
 * Strategy 策略模式
